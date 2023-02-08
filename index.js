@@ -1,5 +1,6 @@
 // TODO: Include packages needed for this application
-
+const inquirer = require('inquirer');
+const fs = requuire('fs')
 // TODO: Create an array of questions for user input
 const questions = [];
 
@@ -11,3 +12,8 @@ function init() {}
 
 // Function call to initialize app
 init();
+
+
+// npm init 
+// install inquirer
+// node video 2 hour mark 2 activities start at 17
