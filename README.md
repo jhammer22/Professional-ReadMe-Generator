@@ -8,7 +8,7 @@ This app was created as Project  09 for the MERN Stack bootcamp at UTA. This uni
 
 ## Submission Video
 
-
+https://www.loom.com/share/0d9bb3f0484543b3be9932e00210ef15
 
 
 ## Acceptance Criteria
